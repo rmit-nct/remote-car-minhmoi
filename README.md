@@ -9,7 +9,7 @@
 1 ELEGOO L298N Dual H Bridge Stepper DC Motor Driver Shield Expansion Development Board
 2 white LED 5mm 20mA
 
-# Apps and platforms
+## Apps and platforms
 
 Arduino IDE
 Arduino Car Connect
