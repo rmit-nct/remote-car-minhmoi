@@ -12,8 +12,5 @@
 ## Apps and platforms
 
 Arduino IDE\
-Arduino Car Connect
 
-![c6dd599d-af43-4ce6-9384-c31551273acb](https://github.com/user-attachments/assets/1b53e038-6a40-43fe-9692-6f8ab9580115)
-
-![ad02652d-b633-4a54-b11f-fe846c076baf](https://github.com/user-attachments/assets/51d6eafd-ff5f-4f20-8d80-9268fbcb4b4d)
+![image](https://github.com/user-attachments/assets/d3313df6-9563-4a4c-b07e-465f7a830be3)
