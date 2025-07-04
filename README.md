@@ -25,7 +25,6 @@ Bluetooth RC Controller Arduino
 
 | Member Name | Contribution |
 |-------------|--------------|
-| **Dinh Bach** | Circuit design, wiring diagram |
 | **Hoang Minh** | Arduino coding, motor driver configuration |
 | **Tuong Van** | Bluetooth module setup, mobile app testing |
 | **Nghia Hiep** | Assembly of chassis, integration of components |
